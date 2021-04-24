@@ -1,5 +1,5 @@
 # CSV-Combiner
-A graphical PowerShell Script to combine CSV files.
+A graphical PowerShell Script and executable to combine CSV files.
 
 
 --Important Notes: 
